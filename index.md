@@ -1,4 +1,4 @@
-## Personal Informatin
+## Personal Information
 aaaaaa  
 aaaaaa  
 aaaaaaa  
