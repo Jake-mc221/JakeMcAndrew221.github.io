@@ -2,7 +2,7 @@
 aaaaaa  
 aaaaaa  
 aaaaaaa  
-<img src="https://i.imgur.com/mJjJ9ph.jpg"  style="float:left;">
+<img src="https://i.imgur.com/mJjJ9ph.jpg"  style="float:left; padding: 10px">
 aaaaaa   
 aaaaaa   
 
