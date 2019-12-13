@@ -1,13 +1,13 @@
 ## Personal Informatin
 
-aaaaaa
+aaaaaa <p style="margin-left: 70px;color:white;font-family:courier new,monospace;"> g <img src="https://unsplash.com/photos/ILip77SbmOE"  style="float:left;padding: 10px" alt="Girl in a jacket" width="200" height="300" top:80px; left:400px> d <br> 33 </p> 
 aaaaa
 aaaa
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-  <p style="color:lawngreen;font-family:courier new,monospace;">                                MY WEBSITE.</p>
+
 ```markdown
 Syntax highlighted code block
 
