@@ -1,6 +1,6 @@
 ## Personal Information
 <img src="yes.jpg"  style="float:left; padding: 10px">
-**Name:** Jake Steven McAndrew  
+<br /><br /><br /><br /><br />**Name:** Jake Steven McAndrew  
 **Student Number:** s3818850  
 **Email:** jake_mcandrew67@Hotmail.com  
 **Basic background:** My names Jake, I’m 22 years old and I’m from Sydney. I was born and Australia, but my family originally                       comes from Ireland and Scotland. I can only speak English, but I do know how to code with java pretty                         well.I like to spend my free time gaming and lifting weights. <br /><br /><br /><br /><br /><br /> <br /><br /> 
