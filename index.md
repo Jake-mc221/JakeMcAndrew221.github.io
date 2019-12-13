@@ -1,6 +1,6 @@
 ## Personal Informatin
 
-aaaaaa <p style="margin-left: 70px;color:white;font-family:courier new,monospace;"> g <img src="https://unsplash.com/photos/ILip77SbmOE"  style="float:left;padding: 10px" alt="Girl in a jacket" width="200" height="300" top:80px; left:400px> d <br> 33 </p> 
+aaaaaa ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 aaaaa
 aaaa
 
