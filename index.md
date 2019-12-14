@@ -32,6 +32,34 @@ Right now, I’m just trying to focus on learning as much about Java as I possib
 ### Big five personality test
 <img src="Screen Shot 2019-12-14 at 12.47.52 pm.png"  style="padding: 10px">
 
+These results of these tests actually made me discover a little more about myself and the way I think, I was pretty surprised with a few of the results. 
+
+These results make me a little worried about teamwork because they seem to suggest that I’m an independent thinker and I work better alone. I think working in a team and with other people is such an important part of any industry, the results have given me motivation to improve my social and group thinking skills so I can be more of a team player. 
+
+These results have made me realised that I should probably be around enthusiastic and energetic people so I can break out of my shell and learn from them. I feel as if being around these types of people would greatly improve my ability to contribute to a team project, I think I would be a great asset to any group because of my other skills mentioned above. 
+
+## Project Idea
+
+For my project idea I have chosen a complex discord bot as this is something I’ve wanted to do since joining discord. I feel as if it might be something, I could accomplish in the near future because of my java experience. The bot will take a lot of time to flesh out and will perform a number of simple and very complex commands such as image and audio searching and playing music in a voice chat. Once finished, I hope the bot will be used by thousands of people to make their discord experience easier and more enjoyable. 
+
+My motivation for the project comes from my love of discord and programming, I use discord on a daily basis to talk to my friends and girlfriend. A complex discord bot would be a perfect project for me because it combines two things that I love, now with my java experience I believe it is the perfect time to think about this project more seriously .There are roughly 25 million discord users worldwide, I would love to release a complete and polished bot to help the everyday discord user with their basic needs. 
+
+The discord bot will feature many different types of simple and complex commands, some of these commands include a basic image/meme search, a ranking system, audio searches, music player, admin commands (ban/mute), quotes, text to speech, minigames(8ball, facts, coinflip, dice), various social commands and so much more. In the following paragraphs I will explain how a few of these commands will work.
+
+The music player is a simple idea but will be complex to implement. Firstly, the user will use a command such as !join, the bot will immediately join the voice chat that the user is in but will not do anything until another command is given. The user then has 2 options, they can either get a url of a song they wont to play and give the command !play (url), or they can use the search command. To use the search function, the user has to type !search and then the name of the song, the bot will then return a list of songs from YouTube closest to what the user has searched. The music player also has other functions such as !volume, !skip and !list.
+
+The image/meme search is a very simple idea and should in theory be very easy to implement with just a few lines of code. Unlike the music player, the user does not have to be in a voice chat for this command to work. First the user would either type !meme or !image, the bot would then post a random image or meme in the same chatroom where to command was typed. The user can also search for a specific meme or image by simply adding a keyword after the command e.g. !meme cat, !image pizza ect. The bot would then post the first image from the searched keyword either from google images, reddit or Imgur.
+
+The text to speech may seem simple to implement, but in reality, it is actually quite complex. The user first has to be in a voice channel, then the user simply has to type the command !tts followed by a word or sentence, the bot will then join the voice channel the user is and will play the text to speech. I was also like to implement sub commands of the text to speech function to alter the sound of the voice, and example would be a command to control the pitch of the tts voice e.g. !pitch (0-100) or a command to control the speed of the tts voice e.g !speed (0-100).
+
+Finally, the last command I want to explain is the ranking system. Every time a user posts something in the discord whether that be text or image, they gain 1 point. The idea behind the ranking system is to allow discord server owners to see who their most active users are and who contributes the most. The information may be used by server owners to possibly reward active users. The ranking system as of right now only has the one command, !leaderboard which can be accessed by admins as well as users, it displays all the users and their scores. More commands for the ranking system may be added in the future 
+
+The tools and technologies used to create are the following: Ecplise IDE for writing the code for the bot, Discord bot libraries(Discord4j, Javacord, JDA, catnip and many more), Maven or Gradle for build automation and possible some online tutorials and guides to help me understand more about the process of making a discord bot from scratch. More tools may be required for the more complex parts such as the music player.
+
+Some of the skills required for my personal project a very in-depth knowledge of java and the different java discord libraries, I plan to gain this knowledge throw much smaller projects such as simpler java discord bots. Thousands of lines of code need to be written in order for this bot to be complete, Therefore a powerful computer with a decent processor and a large amount of ram would probably benefit the project greatly, as of right now I am using a 2015 mac book pro to write code and I find that it cannot handle large amounts of written code. It should be relatively simple to gain the knowledge and skills to write the cod for this bot, although, obtaining a powerful computer may be challenged due to the cost. 
+
+If the project is successful (which I hope it will be), I hope to make a product that thousands of people can use on a daily basis to make their discord experience easier, the whole purpose of this bot is to combine many elements and ideas from smaller bots and combine them into a single, complex bot so users can eliminate the need for multiple bots which hopefully will make the users discord sever to look cleaner more efficient.
+
 
 ### Markdown
 
