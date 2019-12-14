@@ -13,9 +13,15 @@ In the beginning of the year I decided I wanted to make programming/coding into 
 I expect to learn to make myself employable so I can obtain my dream career as a software developer, I also would like to further my coding/programming skills through maybe learning a new programming language.
 
 ## Ideal job
-[Link] (https://defencecareers.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.processJobSearch&jobid=C51FA79E-F9DE-D26D-964B-ADCF1FCC63E0)<br />
+[Link](https://defencecareers.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.processJobSearch&jobid=C51FA79E-F9DE-D26D-964B-ADCF1FCC63E0)<br />
 <img src="unknown (1).png"  style="padding: 10px">
 <br />This particular job fascinates me because I didn’t realise the government would want to hire someone to build, break or rebuild software. This job appeals to me because I love the idea of using my skills for a greater good like national protection instead of using them just to make a big corporation more money. This job is basically all about cyber security and protecting Australia, they also offer mentorship which is a huge plus for me.
+
+This job listing if looking for a wide range of people with different skillsets that will be used to fill different roles with the agency, some of these skills include; knowledge of numerous software programming languages including C, C++,C# and python, 
+
+I currently only have knowledge and experience in Java and very basic knowledge of Python. In 2020 I plan to learn more about Java, Python and possibly C++, I always plan to learn more about operating systems such as Windows and Linux as I feel knowledge of operating systems is vital for the career path that I have chosen.
+
+Right now, I’m just trying to focus on learning as much about Java as I possibly can, whether that be through online courses or just working on personal projects (such as discord music bots). In the near future I would really love to participate in an intern program at a cyber security company as I feel that an internship could provide me an environment to practice and improve my programming my skills but also learn new things such as penetration testing which is something I haven’t really touched on at this point in time. I would also love to learn about software reverse engineering but I’m not really sure how to go about it, considering it can be a controversial subject.
 
 
 ### Markdown
