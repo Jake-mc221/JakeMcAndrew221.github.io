@@ -10,7 +10,7 @@ My interests in IT are mainly to do with software development, programming, and 
 
 In the beginning of the year I decided I wanted to make programming/coding into a career, since I have only finished year 12 and have no formal qualifications, I knew I had to go for a bachelor degree. I spent months trying to find the best degree and university to suit my needs, I ultimately settled on RMIT after reading many positive reviews from past students. I also like that RMIT had the option to study online through OUA
 
-I expect to learn to make myself employable so I can obtain my dream career as a software developer, I also would like to further my coding/programming skills through maybe learning a new programming language.
+I expect to learn to make myself employable so I can obtain my dream career as a software developer, I also would like to further my coding/programming skills through maybe learning a new programming language.<br />
 
 ## Ideal job
 [Link](https://defencecareers.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.processJobSearch&jobid=C51FA79E-F9DE-D26D-964B-ADCF1FCC63E0)<br />
@@ -21,7 +21,7 @@ This job listing if looking for a wide range of people with different skillsets 
 
 I currently only have knowledge and experience in Java and very basic knowledge of Python. In 2020 I plan to learn more about Java, Python and possibly C++, I always plan to learn more about operating systems such as Windows and Linux as I feel knowledge of operating systems is vital for the career path that I have chosen.
 
-Right now, I’m just trying to focus on learning as much about Java as I possibly can, whether that be through online courses or just working on personal projects (such as discord music bots). In the near future I would really love to participate in an intern program at a cyber security company as I feel that an internship could provide me an environment to practice and improve my programming my skills but also learn new things such as penetration testing which is something I haven’t really touched on at this point in time. I would also love to learn about software reverse engineering but I’m not really sure how to go about it, considering it can be a controversial subject.
+Right now, I’m just trying to focus on learning as much about Java as I possibly can, whether that be through online courses or just working on personal projects (such as discord music bots). In the near future I would really love to participate in an intern program at a cyber security company as I feel that an internship could provide me an environment to practice and improve my programming my skills but also learn new things such as penetration testing which is something I haven’t really touched on at this point in time. I would also love to learn about software reverse engineering but I’m not really sure how to go about it, considering it can be a controversial subject.<br />
 
 ## Personal Profile
 
@@ -36,7 +36,7 @@ These results of these tests actually made me discover a little more about mysel
 
 These results make me a little worried about teamwork because they seem to suggest that I’m an independent thinker and I work better alone. I think working in a team and with other people is such an important part of any industry, the results have given me motivation to improve my social and group thinking skills so I can be more of a team player. 
 
-These results have made me realised that I should probably be around enthusiastic and energetic people so I can break out of my shell and learn from them. I feel as if being around these types of people would greatly improve my ability to contribute to a team project, I think I would be a great asset to any group because of my other skills mentioned above. 
+These results have made me realised that I should probably be around enthusiastic and energetic people so I can break out of my shell and learn from them. I feel as if being around these types of people would greatly improve my ability to contribute to a team project, I think I would be a great asset to any group because of my other skills mentioned above. <br />
 
 ## Project Idea
 
