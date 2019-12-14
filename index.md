@@ -14,7 +14,7 @@ I expect to learn to make myself employable so I can obtain my dream career as a
 
 ## Ideal job
 https://defencecareers.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.processJobSearch&jobid=C51FA79E-F9DE-D26D-964B-ADCF1FCC63E0
-<img src="unknown (1).png"  style="float:left; padding: 10px">
+<img src="unknown (1).png"  style="padding: 10px">
 This particular job fascinates me because I didn’t realise the government would want to hire someone to build, break or rebuild software. This job appeals to me because I love the idea of using my skills for a greater good like national protection instead of using them just to make a big corporation more money. This job is basically all about cyber security and protecting Australia, they also offer mentorship which is a huge plus for me.
 
 
