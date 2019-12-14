@@ -23,6 +23,14 @@ I currently only have knowledge and experience in Java and very basic knowledge 
 
 Right now, I’m just trying to focus on learning as much about Java as I possibly can, whether that be through online courses or just working on personal projects (such as discord music bots). In the near future I would really love to participate in an intern program at a cyber security company as I feel that an internship could provide me an environment to practice and improve my programming my skills but also learn new things such as penetration testing which is something I haven’t really touched on at this point in time. I would also love to learn about software reverse engineering but I’m not really sure how to go about it, considering it can be a controversial subject.
 
+## Personal Profile
+
+# Myers-Briggs test
+
+# Learning style test.
+
+# Big five personality test
+
 
 ### Markdown
 
