@@ -3,7 +3,7 @@
 <br /><br /><br /><br />**Name:** Jake Steven McAndrew  
 **Student Number:** s3818850  
 **Email:** jake_mcandrew67@Hotmail.com  
-**Basic background:** My names Jake, I’m 22 years old and I’m from Sydney. I was born and Australia, but my family originally                       comes from Ireland and Scotland. I can only speak English, but I do know how to code with java pretty                         well.I like to spend my free time gaming and lifting weights. <br /><br /><br /><br /><br /><br /> <br /><br /> 
+**Basic background:** My names Jake, I’m 22 years old and I’m from Sydney. I was born and Australia, but my family originally                       comes from Ireland and Scotland. I can only speak English, but I do know how to code with java pretty                         well.I like to spend my free time gaming and lifting weights. <br /><br /><br /><br /><br /><br />  
 ## Interest in IT
 
 My interests in IT are mainly to do with software development, programming, and cyber security, I also spend some of my free time building computers and being the family tech support. Ever since I was a child, I’ve always had an interest in IT, I spent most of my time pulling apart random electronics, googling and learning about future technologies and playing video games. My love of programming actually comes from the movie The Matrix, After I saw it the first time, I knew I had to be exactly like Neo. I have many years’ experience building computers and about 7 months of java experience.
