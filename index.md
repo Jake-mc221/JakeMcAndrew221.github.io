@@ -25,12 +25,13 @@ Right now, I’m just trying to focus on learning as much about Java as I possib
 
 ## Personal Profile
 
-# Myers-Briggs test
+### Myers-Briggs test
+<img src="unknown (2).png"  style="padding: 10px">
+### Learning style test.
+<img src="unknown (3).png"  style="padding: 10px">
+### Big five personality test
+<img src="Screen Shot 2019-12-14 at 12.47.52 pm.png"  style="padding: 10px">
 
-# Learning style test.
-
-# Big five personality test
-Screen Shot 2019-12-14 at 12.47.52 pm.png
 
 ### Markdown
 
