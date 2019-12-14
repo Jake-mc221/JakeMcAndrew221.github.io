@@ -61,33 +61,7 @@ Some of the skills required for my personal project a very in-depth knowledge of
 If the project is successful (which I hope it will be), I hope to make a product that thousands of people can use on a daily basis to make their discord experience easier, the whole purpose of this bot is to combine many elements and ideas from smaller bots and combine them into a single, complex bot so users can eliminate the need for multiple bots which hopefully will make the users discord sever to look cleaner more efficient.
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link to the job](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakeMcAndrew221/JakeMcAndrew221.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
