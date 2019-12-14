@@ -40,6 +40,7 @@ These results have made me realised that I should probably be around enthusiasti
 
 ## Project Idea
 
+<img src="transparent-discord-icon-4.jpg"  style="float:left; padding: 10px">
 For my project idea I have chosen a complex discord bot as this is something I’ve wanted to do since joining discord. I feel as if it might be something, I could accomplish in the near future because of my java experience. The bot will take a lot of time to flesh out and will perform a number of simple and very complex commands such as image and audio searching and playing music in a voice chat. Once finished, I hope the bot will be used by thousands of people to make their discord experience easier and more enjoyable. 
 
 My motivation for the project comes from my love of discord and programming, I use discord on a daily basis to talk to my friends and girlfriend. A complex discord bot would be a perfect project for me because it combines two things that I love, now with my java experience I believe it is the perfect time to think about this project more seriously .There are roughly 25 million discord users worldwide, I would love to release a complete and polished bot to help the everyday discord user with their basic needs. 
